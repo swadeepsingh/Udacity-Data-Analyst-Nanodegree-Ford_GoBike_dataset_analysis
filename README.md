@@ -54,17 +54,17 @@ The Ford GoBike Trip dataset includes information about individual rides made in
 
 # Explanatory data analysis:
 
-    1. 20-30 age group users are rapidly using bikes as compared to other user groups
-    2. 20 to 40 years old people took the more than 70% of bike rides. Among those, 20 to 30 years old people's rides account for around 40% of all bike rides.
-    3. Male took 76% of all bike rides, and female took 22% of them.
-    4. Majority of people uses Ford Gobike on weekdays. And reduced to half on weekends.
-    5. Majority number of people uses this service during commute time. 8am and 5pm are the peak hours for this service. Also, few people uses it more during lunch time.
-    6. 88.92% of bike rides are from subscribers.
-    7. The fluctuations in Subscriber profile is because of weekends.
-    8. Average trip duration for Subscriber is 10.769067 and for Customer is 23.846594.
-    9. Interestingly, both subscribers and customers trip distance were almost same.
-    10. 20-30 age group riders are more in both user type.
-    11. San Francisco Caltrain Station 2 (Townsend St at 4th St) is the top station where Ford Gobike trip starts and ends.
-    12. 5pm is peak hour for 'Bike share for all' rides
-    13. Most bike share for trip starts at 5th St. at Virginia St.
+1. 20-30 age group users are rapidly using bikes as compared to other user groups
+2. 20 to 40 years old people took the more than 70% of bike rides. Among those, 20 to 30 years old people's rides account for around 40% of all bike rides.
+3. Male took 76% of all bike rides, and female took 22% of them.
+4. Majority of people uses Ford Gobike on weekdays. And reduced to half on weekends.
+5. Majority number of people uses this service during commute time. 8am and 5pm are the peak hours for this service. Also, few people uses it more during lunch time.
+6. 88.92% of bike rides are from subscribers.
+7. The fluctuations in Subscriber profile is because of weekends.
+8. Average trip duration for Subscriber is 10.769067 and for Customer is 23.846594.
+9. Interestingly, both subscribers and customers trip distance were almost same.
+10. 20-30 age group riders are more in both user type.
+11. San Francisco Caltrain Station 2 (Townsend St at 4th St) is the top station where Ford Gobike trip starts and ends.
+12. 5pm is peak hour for 'Bike share for all' rides
+13. Most bike share for trip starts at 5th St. at Virginia St.
 
