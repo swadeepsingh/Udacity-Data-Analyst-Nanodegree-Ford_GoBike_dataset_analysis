@@ -68,3 +68,34 @@ The Ford GoBike Trip dataset includes information about individual rides made in
 12. 5pm is peak hour for 'Bike share for all' rides
 13. Most bike share for trip starts at 5th St. at Virginia St.
 
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/daily-pickup-trend.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/daily-pickup-trend-by-agegroup.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Top%2010%20stations%20where%20most%20Ford%20GoBike's%20trip%20starts.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Top%2010%20stations%20where%20most%20Ford%20GoBike's%20trip%20ends.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Average%20trip%20duration%20per%20user%20type.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Average%20trip%20distance%20per%20user%20group.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Percentage%20of%20all%20bike%20rides%20per%20gender.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Percentage%20of%20bike%20rides%20per%20user%20type.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Percentage%20of%20all%20bike%20rides%20per%20weekday.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Percentage%20of%20all%20bike%20rides%20per%20age%20group.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Percentage%20of%20all%20bike%20rides%20by%20hour%20of%20the%20day.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Daily%20trend%20of%20bike%20rides%20per%20user%20type.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Daily%20trend%20of%20bike%20rides%20per%20subscribers%20member%20age%20group.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Daily%20trend%20of%20bike%20rides%20per%20customers%20member%20age%20group.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Bike%20share%20for%20all%20rides%20per%20hour%20of%20a%20day.png)
+
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-Ford_GoBike_dataset_analysis/blob/master/images/Top%2010%20stations%20where%20most%20Ford%20GoBike's%20share%20trip%20starts.png)
