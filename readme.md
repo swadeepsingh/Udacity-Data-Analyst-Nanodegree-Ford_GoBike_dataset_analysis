@@ -1,9 +1,9 @@
-Ford GoBike Trip Data Analysis
+# Ford GoBike Trip Data Analysis
 
 In this part of project, our goal is to conduct an exploratory data analysis on Ford GoBike Trip dataset. We will use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships. The analysis in this part is structured, going from simple univariate relationships up through multivariate relationships, but it does not need to be clean or perfect. This part of the project is gives opportunity to ask questions on data and make discoveries.
 
 
-Table of Contents:
+# Table of Contents:
 
     Introduction
     Exploratory data analysis
@@ -11,7 +11,7 @@ Table of Contents:
     Conclusions
 
 
-Introduction:
+# Introduction:
 
 The Ford GoBike Trip dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay & nearby areas. Each trip is anonymized and includes:
 
@@ -32,9 +32,9 @@ The Ford GoBike Trip dataset includes information about individual rides made in
     Member Gender
 
 
-Exploratory data analysis:
+# Exploratory data analysis:
 
-    Observations:
+# Observations:
 
     1. Columns names are consistent (lower snakecase)
     2. Generate minutes for trip duration from duration_sec 
@@ -43,7 +43,7 @@ Exploratory data analysis:
     5. Filter data to include reasonable member age range from member_year_of_birth
     6. Create bins for member age group
 
-    Questions: 
+# Questions: 
 
     Question 1: How fast the Ford GoBike is growing?
     Question 2: How does rides trend vary per age, gender, weekday, and hour of a day?
@@ -52,7 +52,7 @@ Exploratory data analysis:
     Question 5: When and where bike share for all rides happened ?
 
 
-Explanatory data analysis:
+# Explanatory data analysis:
 
     1. 20-30 age group users are rapidly using bikes as compared to other user groups
     2. 20 to 40 years old people took the more than 70% of bike rides. Among those, 20 to 30 years old people's rides account for around 40% of all bike rides.
